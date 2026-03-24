@@ -4,7 +4,7 @@ En los últimos años, la **Inteligencia Artificial** (IA) Generativa ha tomado 
 ### En este curso respondemos las siguientes preguntas:
 - Cómo funciona una IA Generativa
 - Cuáles son las mejores técnicas de *Prompting* para obtener resultados precisos
-- Cómo obtener una API Key para usar OpenAI o Groq
+- Cómo obtener una API Key para usar OpenAI o Grok
 
 Además, en el mismo repasamos muchos conceptos importantes de una forma concisa y clara para que cualquiera pueda entenderlo sin importar su nivel de conocimiento previo.
 
